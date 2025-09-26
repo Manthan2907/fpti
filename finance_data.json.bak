@@ -1,0 +1,3625 @@
+{
+  "portfolio": {
+    "CASH": {
+      "shares": 41693.93,
+      "avg_price": 1.0,
+      "current_price": 1.0
+    },
+    "MSFT": {
+      "shares": 150.0,
+      "avg_price": 510.15,
+      "current_price": 507.0299987792969
+    },
+    "AAPL": {
+      "shares": 25.0,
+      "avg_price": 252.31,
+      "current_price": 256.8699951171875
+    },
+    "TSLA": {
+      "shares": 100.0,
+      "avg_price": 423.39,
+      "current_price": 423.3900146484375
+    }
+  },
+  "goals": [],
+  "loans": [],
+  "cash_balance": 41693.93,
+  "transactions": [
+    {
+      "date": "2025-09-01T00:00:00",
+      "category": "Online Store - Product Sales",
+      "amount": 1520.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-01T00:00:00",
+      "category": "Online Store - Shipping Fees",
+      "amount": 230.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-01T00:00:00",
+      "category": "Online Store - Refund",
+      "amount": -120.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-02T00:00:00",
+      "category": "Music Festival - Ticket Sales",
+      "amount": 3400.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-02T00:00:00",
+      "category": "Music Festival - Food Stall Income",
+      "amount": 980.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-02T00:00:00",
+      "category": "Music Festival - Stage Rental",
+      "amount": -600.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-03T00:00:00",
+      "category": "Food Truck - Lunch Sales",
+      "amount": 850.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-03T00:00:00",
+      "category": "Food Truck - Fuel Expense",
+      "amount": -90.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-03T00:00:00",
+      "category": "Corporate Workshop - Registration Fees",
+      "amount": 2100.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-03T00:00:00",
+      "category": "Corporate Workshop - Venue Hire",
+      "amount": -750.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-04T00:00:00",
+      "category": "Online Store - Product Sales",
+      "amount": 1780.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-04T00:00:00",
+      "category": "Online Store - Product Sales",
+      "amount": 1660.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-04T00:00:00",
+      "category": "Online Store - Marketing Expense",
+      "amount": -200.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-04T00:00:00",
+      "category": "Music Festival - Ticket Sales",
+      "amount": 3600.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-04T00:00:00",
+      "category": "Music Festival - Merchandise",
+      "amount": 820.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-05T00:00:00",
+      "category": "Food Truck - Dinner Sales",
+      "amount": 920.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-05T00:00:00",
+      "category": "Food Truck - Ingredient Purchase",
+      "amount": -110.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-05T00:00:00",
+      "category": "Corporate Workshop - Registration Fees",
+      "amount": 1900.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-05T00:00:00",
+      "category": "Corporate Workshop - Printing",
+      "amount": -65.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-06T00:00:00",
+      "category": "Online Store - Product Sales",
+      "amount": 1850.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-06T00:00:00",
+      "category": "Online Store - Product Sales",
+      "amount": 1720.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-06T00:00:00",
+      "category": "Online Store - Refund",
+      "amount": -140.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-06T00:00:00",
+      "category": "Music Festival - Ticket Sales",
+      "amount": 3550.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-06T00:00:00",
+      "category": "Music Festival - Vendor Booth Income",
+      "amount": 600.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-06T00:00:00",
+      "category": "Music Festival - Lighting Expense",
+      "amount": -300.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-07T00:00:00",
+      "category": "Food Truck - Lunch Sales",
+      "amount": 870.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-07T00:00:00",
+      "category": "Food Truck - Dinner Sales",
+      "amount": 960.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-07T00:00:00",
+      "category": "Food Truck - Maintenance",
+      "amount": -80.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-07T00:00:00",
+      "category": "Corporate Workshop - Registration Fees",
+      "amount": 2200.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-07T00:00:00",
+      "category": "Corporate Workshop - Catering",
+      "amount": -250.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-08T00:00:00",
+      "category": "Online Store - Product Sales",
+      "amount": 1620.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-08T00:00:00",
+      "category": "Online Store - Shipping Fees",
+      "amount": 210.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-08T00:00:00",
+      "category": "Online Store - Refund",
+      "amount": -100.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-08T00:00:00",
+      "category": "Music Festival - Ticket Sales",
+      "amount": 3720.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-08T00:00:00",
+      "category": "Music Festival - Food Stall Income",
+      "amount": 1040.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-08T00:00:00",
+      "category": "Music Festival - Security",
+      "amount": -400.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-09T00:00:00",
+      "category": "Food Truck - Lunch Sales",
+      "amount": 910.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-09T00:00:00",
+      "category": "Food Truck - Fuel Expense",
+      "amount": -70.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-09T00:00:00",
+      "category": "Corporate Workshop - Registration Fees",
+      "amount": 2300.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-09T00:00:00",
+      "category": "Corporate Workshop - Venue Hire",
+      "amount": -800.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-10T00:00:00",
+      "category": "Online Store - Product Sales",
+      "amount": 1750.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-10T00:00:00",
+      "category": "Online Store - Marketing Expense",
+      "amount": -180.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-10T00:00:00",
+      "category": "Music Festival - Ticket Sales",
+      "amount": 3480.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-10T00:00:00",
+      "category": "Music Festival - Merchandise",
+      "amount": 900.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-10T00:00:00",
+      "category": "Music Festival - Stage Rental",
+      "amount": -650.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-10T00:00:00",
+      "category": "Food Truck - Dinner Sales",
+      "amount": 980.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-10T00:00:00",
+      "category": "Food Truck - Ingredient Purchase",
+      "amount": -95.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-10T00:00:00",
+      "category": "Corporate Workshop - Registration Fees",
+      "amount": 1950.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-10T00:00:00",
+      "category": "Corporate Workshop - Printing",
+      "amount": -70.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Online Store - Product Sales",
+      "amount": 1680.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Online Store - Product Sales",
+      "amount": 1580.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Online Store - Refund",
+      "amount": -120.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Music Festival - Ticket Sales",
+      "amount": 3600.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Music Festival - Vendor Booth Income",
+      "amount": 640.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Music Festival - Lighting Expense",
+      "amount": -320.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Food Truck - Lunch Sales",
+      "amount": 940.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Food Truck - Dinner Sales",
+      "amount": 930.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Food Truck - Maintenance",
+      "amount": -85.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Corporate Workshop - Registration Fees",
+      "amount": 2050.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Corporate Workshop - Catering",
+      "amount": -260.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-01T00:00:00",
+      "category": "Online Store - Product Sales",
+      "amount": 1520.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-01T00:00:00",
+      "category": "Online Store - Shipping Fees",
+      "amount": 230.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-01T00:00:00",
+      "category": "Online Store - Refund",
+      "amount": -120.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-02T00:00:00",
+      "category": "Music Festival - Ticket Sales",
+      "amount": 3400.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-02T00:00:00",
+      "category": "Music Festival - Food Stall Income",
+      "amount": 980.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-02T00:00:00",
+      "category": "Music Festival - Stage Rental",
+      "amount": -600.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-03T00:00:00",
+      "category": "Food Truck - Lunch Sales",
+      "amount": 850.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-03T00:00:00",
+      "category": "Food Truck - Fuel Expense",
+      "amount": -90.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-03T00:00:00",
+      "category": "Corporate Workshop - Registration Fees",
+      "amount": 2100.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-03T00:00:00",
+      "category": "Corporate Workshop - Venue Hire",
+      "amount": -750.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-04T00:00:00",
+      "category": "Online Store - Product Sales",
+      "amount": 1780.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-04T00:00:00",
+      "category": "Online Store - Product Sales",
+      "amount": 1660.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-04T00:00:00",
+      "category": "Online Store - Marketing Expense",
+      "amount": -200.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-04T00:00:00",
+      "category": "Music Festival - Ticket Sales",
+      "amount": 3600.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-04T00:00:00",
+      "category": "Music Festival - Merchandise",
+      "amount": 820.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-05T00:00:00",
+      "category": "Food Truck - Dinner Sales",
+      "amount": 920.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-05T00:00:00",
+      "category": "Food Truck - Ingredient Purchase",
+      "amount": -110.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-05T00:00:00",
+      "category": "Corporate Workshop - Registration Fees",
+      "amount": 1900.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-05T00:00:00",
+      "category": "Corporate Workshop - Printing",
+      "amount": -65.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-06T00:00:00",
+      "category": "Online Store - Product Sales",
+      "amount": 1850.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-06T00:00:00",
+      "category": "Online Store - Product Sales",
+      "amount": 1720.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-06T00:00:00",
+      "category": "Online Store - Refund",
+      "amount": -140.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-06T00:00:00",
+      "category": "Music Festival - Ticket Sales",
+      "amount": 3550.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-06T00:00:00",
+      "category": "Music Festival - Vendor Booth Income",
+      "amount": 600.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-06T00:00:00",
+      "category": "Music Festival - Lighting Expense",
+      "amount": -300.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-07T00:00:00",
+      "category": "Food Truck - Lunch Sales",
+      "amount": 870.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-07T00:00:00",
+      "category": "Food Truck - Dinner Sales",
+      "amount": 960.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-07T00:00:00",
+      "category": "Food Truck - Maintenance",
+      "amount": -80.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-07T00:00:00",
+      "category": "Corporate Workshop - Registration Fees",
+      "amount": 2200.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-07T00:00:00",
+      "category": "Corporate Workshop - Catering",
+      "amount": -250.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-08T00:00:00",
+      "category": "Online Store - Product Sales",
+      "amount": 1620.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-08T00:00:00",
+      "category": "Online Store - Shipping Fees",
+      "amount": 210.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-08T00:00:00",
+      "category": "Online Store - Refund",
+      "amount": -100.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-08T00:00:00",
+      "category": "Music Festival - Ticket Sales",
+      "amount": 3720.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-08T00:00:00",
+      "category": "Music Festival - Food Stall Income",
+      "amount": 1040.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-08T00:00:00",
+      "category": "Music Festival - Security",
+      "amount": -400.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-09T00:00:00",
+      "category": "Food Truck - Lunch Sales",
+      "amount": 910.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-09T00:00:00",
+      "category": "Food Truck - Fuel Expense",
+      "amount": -70.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-09T00:00:00",
+      "category": "Corporate Workshop - Registration Fees",
+      "amount": 2300.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-09T00:00:00",
+      "category": "Corporate Workshop - Venue Hire",
+      "amount": -800.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-10T00:00:00",
+      "category": "Online Store - Product Sales",
+      "amount": 1750.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-10T00:00:00",
+      "category": "Online Store - Marketing Expense",
+      "amount": -180.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-10T00:00:00",
+      "category": "Music Festival - Ticket Sales",
+      "amount": 3480.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-10T00:00:00",
+      "category": "Music Festival - Merchandise",
+      "amount": 900.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-10T00:00:00",
+      "category": "Music Festival - Stage Rental",
+      "amount": -650.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-10T00:00:00",
+      "category": "Food Truck - Dinner Sales",
+      "amount": 980.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-10T00:00:00",
+      "category": "Food Truck - Ingredient Purchase",
+      "amount": -95.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-10T00:00:00",
+      "category": "Corporate Workshop - Registration Fees",
+      "amount": 1950.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-10T00:00:00",
+      "category": "Corporate Workshop - Printing",
+      "amount": -70.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Online Store - Product Sales",
+      "amount": 1680.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Online Store - Product Sales",
+      "amount": 1580.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Online Store - Refund",
+      "amount": -120.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Music Festival - Ticket Sales",
+      "amount": 3600.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Music Festival - Vendor Booth Income",
+      "amount": 640.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Music Festival - Lighting Expense",
+      "amount": -320.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Food Truck - Lunch Sales",
+      "amount": 940.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Food Truck - Dinner Sales",
+      "amount": 930.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Food Truck - Maintenance",
+      "amount": -85.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Corporate Workshop - Registration Fees",
+      "amount": 2050.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Corporate Workshop - Catering",
+      "amount": -260.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-25T00:00:00",
+      "category": "Investment: MSFT",
+      "amount": -76522.5,
+      "description": "Purchased 150.0 shares at $510.15"
+    },
+    {
+      "date": "2025-09-25T00:00:00",
+      "category": "Investment: AI",
+      "amount": -1814.0,
+      "description": "Purchased 100.0 shares at $18.14"
+    },
+    {
+      "date": "2025-09-25T00:00:00",
+      "category": "Investment: AAPL",
+      "amount": -12615.5,
+      "description": "Purchased 50.0 shares at $252.31"
+    },
+    {
+      "date": "2025-09-25T17:50:41",
+      "category": "Interest",
+      "amount": 10.0,
+      "description": "Interest credited to cash"
+    },
+    {
+      "date": "2025-09-25T17:51:41",
+      "category": "Interest",
+      "amount": 10.0,
+      "description": "Interest credited to cash"
+    },
+    {
+      "date": "2024-01-01T00:00:00",
+      "category": "Student Loan",
+      "amount": 2500.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-05T00:00:00",
+      "category": "Tuition",
+      "amount": -1800.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-06T00:00:00",
+      "category": "Books",
+      "amount": -120.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-07T00:00:00",
+      "category": "Food",
+      "amount": -22.5,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-08T00:00:00",
+      "category": "Part-time Job",
+      "amount": 600.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-09T00:00:00",
+      "category": "Transportation",
+      "amount": -18.2,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-10T00:00:00",
+      "category": "Coffee",
+      "amount": -6.5,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-11T00:00:00",
+      "category": "Entertainment",
+      "amount": -25.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-12T00:00:00",
+      "category": "Food",
+      "amount": -30.1,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-13T00:00:00",
+      "category": "Transportation",
+      "amount": -15.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-14T00:00:00",
+      "category": "Food",
+      "amount": -18.7,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-15T00:00:00",
+      "category": "Books",
+      "amount": -45.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-16T00:00:00",
+      "category": "Food",
+      "amount": -24.6,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-17T00:00:00",
+      "category": "Coffee",
+      "amount": -5.2,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-18T00:00:00",
+      "category": "Entertainment",
+      "amount": -40.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-19T00:00:00",
+      "category": "Food",
+      "amount": -27.9,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-20T00:00:00",
+      "category": "Transportation",
+      "amount": -16.5,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-21T00:00:00",
+      "category": "Food",
+      "amount": -19.3,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-23T00:00:00",
+      "category": "Coffee",
+      "amount": -7.1,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-25T00:00:00",
+      "category": "Food",
+      "amount": -28.6,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-27T00:00:00",
+      "category": "Entertainment",
+      "amount": -22.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-28T00:00:00",
+      "category": "Food",
+      "amount": -21.4,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-30T00:00:00",
+      "category": "Part-time Job",
+      "amount": 550.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "category": "Student Loan",
+      "amount": 2500.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-04T00:00:00",
+      "category": "Tuition",
+      "amount": -1850.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-05T00:00:00",
+      "category": "Books",
+      "amount": -95.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-06T00:00:00",
+      "category": "Food",
+      "amount": -26.5,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-07T00:00:00",
+      "category": "Coffee",
+      "amount": -5.8,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-08T00:00:00",
+      "category": "Transportation",
+      "amount": -14.2,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-09T00:00:00",
+      "category": "Food",
+      "amount": -23.4,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-10T00:00:00",
+      "category": "Entertainment",
+      "amount": -35.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-11T00:00:00",
+      "category": "Food",
+      "amount": -30.2,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-12T00:00:00",
+      "category": "Coffee",
+      "amount": -6.7,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-13T00:00:00",
+      "category": "Food",
+      "amount": -27.1,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-14T00:00:00",
+      "category": "Transportation",
+      "amount": -18.5,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-15T00:00:00",
+      "category": "Books",
+      "amount": -60.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-16T00:00:00",
+      "category": "Food",
+      "amount": -19.9,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-17T00:00:00",
+      "category": "Entertainment",
+      "amount": -28.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-18T00:00:00",
+      "category": "Food",
+      "amount": -22.7,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-20T00:00:00",
+      "category": "Coffee",
+      "amount": -7.2,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-21T00:00:00",
+      "category": "Food",
+      "amount": -29.6,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-22T00:00:00",
+      "category": "Transportation",
+      "amount": -15.4,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-23T00:00:00",
+      "category": "Food",
+      "amount": -18.8,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-25T00:00:00",
+      "category": "Entertainment",
+      "amount": -32.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-26T00:00:00",
+      "category": "Food",
+      "amount": -26.3,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-28T00:00:00",
+      "category": "Part-time Job",
+      "amount": 620.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "category": "Student Loan",
+      "amount": 2500.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-03T00:00:00",
+      "category": "Tuition",
+      "amount": -1825.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-04T00:00:00",
+      "category": "Books",
+      "amount": -110.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-05T00:00:00",
+      "category": "Food",
+      "amount": -21.5,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-06T00:00:00",
+      "category": "Coffee",
+      "amount": -5.3,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-07T00:00:00",
+      "category": "Transportation",
+      "amount": -16.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-08T00:00:00",
+      "category": "Food",
+      "amount": -28.1,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-09T00:00:00",
+      "category": "Entertainment",
+      "amount": -42.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-10T00:00:00",
+      "category": "Food",
+      "amount": -24.8,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-11T00:00:00",
+      "category": "Coffee",
+      "amount": -6.9,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-12T00:00:00",
+      "category": "Food",
+      "amount": -30.4,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-13T00:00:00",
+      "category": "Transportation",
+      "amount": -15.5,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-14T00:00:00",
+      "category": "Books",
+      "amount": -75.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-15T00:00:00",
+      "category": "Food",
+      "amount": -20.6,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-16T00:00:00",
+      "category": "Entertainment",
+      "amount": -38.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-17T00:00:00",
+      "category": "Food",
+      "amount": -23.1,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-18T00:00:00",
+      "category": "Coffee",
+      "amount": -6.2,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-19T00:00:00",
+      "category": "Food",
+      "amount": -27.8,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-20T00:00:00",
+      "category": "Transportation",
+      "amount": -17.3,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-21T00:00:00",
+      "category": "Food",
+      "amount": -19.4,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-23T00:00:00",
+      "category": "Entertainment",
+      "amount": -30.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-24T00:00:00",
+      "category": "Food",
+      "amount": -25.7,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-26T00:00:00",
+      "category": "Coffee",
+      "amount": -7.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-27T00:00:00",
+      "category": "Food",
+      "amount": -28.9,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-28T00:00:00",
+      "category": "Transportation",
+      "amount": -14.9,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-29T00:00:00",
+      "category": "Food",
+      "amount": -22.2,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-30T00:00:00",
+      "category": "Part-time Job",
+      "amount": 580.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-25T17:52:41",
+      "category": "Interest",
+      "amount": 10.0,
+      "description": "Interest credited to cash"
+    },
+    {
+      "date": "2025-09-25T17:53:41",
+      "category": "Interest",
+      "amount": 10.0,
+      "description": "Interest credited to cash"
+    },
+    {
+      "date": "2025-09-25T17:54:22",
+      "category": "Allocate: Portfolio",
+      "amount": -5905.12,
+      "description": "Allocated $5,905.12 (cash)"
+    },
+    {
+      "date": "2025-09-25T17:54:41",
+      "category": "Interest",
+      "amount": 10.0,
+      "description": "Interest credited to cash"
+    },
+    {
+      "date": "2025-09-25T18:28:27",
+      "category": "Missed Interest",
+      "amount": 330.0,
+      "description": "Interest for 33 minutes offline"
+    },
+    {
+      "date": "2025-09-22T00:00:00",
+      "category": "Credit Card",
+      "amount": 75.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-23T00:00:00",
+      "category": "Student Loan",
+      "amount": 200.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-24T00:00:00",
+      "category": "Car Loan",
+      "amount": 250.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-25T00:00:00",
+      "category": "Mortgage",
+      "amount": 900.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-26T00:00:00",
+      "category": "Credit Card",
+      "amount": 80.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-27T00:00:00",
+      "category": "Student Loan",
+      "amount": 190.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-28T00:00:00",
+      "category": "Car Loan",
+      "amount": 240.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-29T00:00:00",
+      "category": "Mortgage",
+      "amount": 900.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-30T00:00:00",
+      "category": "Credit Card",
+      "amount": 70.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-10-01T00:00:00",
+      "category": "Student Loan",
+      "amount": 210.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-10-02T00:00:00",
+      "category": "Car Loan",
+      "amount": 260.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-10-03T00:00:00",
+      "category": "Mortgage",
+      "amount": 900.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-10-04T00:00:00",
+      "category": "Personal Loan",
+      "amount": 130.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-10-05T00:00:00",
+      "category": "Medical Bill",
+      "amount": 60.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-10-06T00:00:00",
+      "category": "Business Loan",
+      "amount": 210.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-10-07T00:00:00",
+      "category": "Credit Card",
+      "amount": 75.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-10-08T00:00:00",
+      "category": "Student Loan",
+      "amount": 200.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-10-09T00:00:00",
+      "category": "Car Loan",
+      "amount": 250.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-10-10T00:00:00",
+      "category": "Mortgage",
+      "amount": 900.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-10-11T00:00:00",
+      "category": "Credit Card",
+      "amount": 80.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-10-12T00:00:00",
+      "category": "Student Loan",
+      "amount": 190.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-10-13T00:00:00",
+      "category": "Car Loan",
+      "amount": 240.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-10-14T00:00:00",
+      "category": "Mortgage",
+      "amount": 900.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-10-15T00:00:00",
+      "category": "Personal Loan",
+      "amount": 125.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-10-16T00:00:00",
+      "category": "Medical Bill",
+      "amount": 65.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-10-17T00:00:00",
+      "category": "Business Loan",
+      "amount": 215.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-10-18T00:00:00",
+      "category": "Credit Card",
+      "amount": 70.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-10-19T00:00:00",
+      "category": "Student Loan",
+      "amount": 205.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-25T18:29:48",
+      "category": "Interest",
+      "amount": 10.0,
+      "description": "Interest credited to cash"
+    },
+    {
+      "date": "2025-09-25T18:30:48",
+      "category": "Interest",
+      "amount": 10.0,
+      "description": "Interest credited to cash"
+    },
+    {
+      "date": "2025-09-25T18:31:48",
+      "category": "Interest",
+      "amount": 10.0,
+      "description": "Interest credited to cash"
+    },
+    {
+      "date": "2024-01-01T00:00:00",
+      "category": "Student Loan",
+      "amount": 2500.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-05T00:00:00",
+      "category": "Tuition",
+      "amount": -1800.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-06T00:00:00",
+      "category": "Books",
+      "amount": -120.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-07T00:00:00",
+      "category": "Food",
+      "amount": -22.5,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-08T00:00:00",
+      "category": "Part-time Job",
+      "amount": 600.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-09T00:00:00",
+      "category": "Transportation",
+      "amount": -18.2,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-10T00:00:00",
+      "category": "Coffee",
+      "amount": -6.5,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-11T00:00:00",
+      "category": "Entertainment",
+      "amount": -25.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-12T00:00:00",
+      "category": "Food",
+      "amount": -30.1,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-13T00:00:00",
+      "category": "Transportation",
+      "amount": -15.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-14T00:00:00",
+      "category": "Food",
+      "amount": -18.7,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-15T00:00:00",
+      "category": "Books",
+      "amount": -45.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-16T00:00:00",
+      "category": "Food",
+      "amount": -24.6,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-17T00:00:00",
+      "category": "Coffee",
+      "amount": -5.2,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-18T00:00:00",
+      "category": "Entertainment",
+      "amount": -40.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-19T00:00:00",
+      "category": "Food",
+      "amount": -27.9,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-20T00:00:00",
+      "category": "Transportation",
+      "amount": -16.5,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-21T00:00:00",
+      "category": "Food",
+      "amount": -19.3,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-23T00:00:00",
+      "category": "Coffee",
+      "amount": -7.1,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-25T00:00:00",
+      "category": "Food",
+      "amount": -28.6,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-27T00:00:00",
+      "category": "Entertainment",
+      "amount": -22.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-28T00:00:00",
+      "category": "Food",
+      "amount": -21.4,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-30T00:00:00",
+      "category": "Part-time Job",
+      "amount": 550.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "category": "Student Loan",
+      "amount": 2500.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-04T00:00:00",
+      "category": "Tuition",
+      "amount": -1850.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-05T00:00:00",
+      "category": "Books",
+      "amount": -95.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-06T00:00:00",
+      "category": "Food",
+      "amount": -26.5,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-07T00:00:00",
+      "category": "Coffee",
+      "amount": -5.8,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-08T00:00:00",
+      "category": "Transportation",
+      "amount": -14.2,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-09T00:00:00",
+      "category": "Food",
+      "amount": -23.4,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-10T00:00:00",
+      "category": "Entertainment",
+      "amount": -35.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-11T00:00:00",
+      "category": "Food",
+      "amount": -30.2,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-12T00:00:00",
+      "category": "Coffee",
+      "amount": -6.7,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-13T00:00:00",
+      "category": "Food",
+      "amount": -27.1,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-14T00:00:00",
+      "category": "Transportation",
+      "amount": -18.5,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-15T00:00:00",
+      "category": "Books",
+      "amount": -60.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-16T00:00:00",
+      "category": "Food",
+      "amount": -19.9,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-17T00:00:00",
+      "category": "Entertainment",
+      "amount": -28.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-18T00:00:00",
+      "category": "Food",
+      "amount": -22.7,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-20T00:00:00",
+      "category": "Coffee",
+      "amount": -7.2,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-21T00:00:00",
+      "category": "Food",
+      "amount": -29.6,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-22T00:00:00",
+      "category": "Transportation",
+      "amount": -15.4,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-23T00:00:00",
+      "category": "Food",
+      "amount": -18.8,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-25T00:00:00",
+      "category": "Entertainment",
+      "amount": -32.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-26T00:00:00",
+      "category": "Food",
+      "amount": -26.3,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-28T00:00:00",
+      "category": "Part-time Job",
+      "amount": 620.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "category": "Student Loan",
+      "amount": 2500.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-03T00:00:00",
+      "category": "Tuition",
+      "amount": -1825.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-04T00:00:00",
+      "category": "Books",
+      "amount": -110.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-05T00:00:00",
+      "category": "Food",
+      "amount": -21.5,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-06T00:00:00",
+      "category": "Coffee",
+      "amount": -5.3,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-07T00:00:00",
+      "category": "Transportation",
+      "amount": -16.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-08T00:00:00",
+      "category": "Food",
+      "amount": -28.1,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-09T00:00:00",
+      "category": "Entertainment",
+      "amount": -42.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-10T00:00:00",
+      "category": "Food",
+      "amount": -24.8,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-11T00:00:00",
+      "category": "Coffee",
+      "amount": -6.9,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-12T00:00:00",
+      "category": "Food",
+      "amount": -30.4,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-13T00:00:00",
+      "category": "Transportation",
+      "amount": -15.5,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-14T00:00:00",
+      "category": "Books",
+      "amount": -75.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-15T00:00:00",
+      "category": "Food",
+      "amount": -20.6,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-16T00:00:00",
+      "category": "Entertainment",
+      "amount": -38.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-17T00:00:00",
+      "category": "Food",
+      "amount": -23.1,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-18T00:00:00",
+      "category": "Coffee",
+      "amount": -6.2,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-19T00:00:00",
+      "category": "Food",
+      "amount": -27.8,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-20T00:00:00",
+      "category": "Transportation",
+      "amount": -17.3,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-21T00:00:00",
+      "category": "Food",
+      "amount": -19.4,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-23T00:00:00",
+      "category": "Entertainment",
+      "amount": -30.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-24T00:00:00",
+      "category": "Food",
+      "amount": -25.7,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-26T00:00:00",
+      "category": "Coffee",
+      "amount": -7.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-27T00:00:00",
+      "category": "Food",
+      "amount": -28.9,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-28T00:00:00",
+      "category": "Transportation",
+      "amount": -14.9,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-29T00:00:00",
+      "category": "Food",
+      "amount": -22.2,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-30T00:00:00",
+      "category": "Part-time Job",
+      "amount": 580.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-25T18:32:13",
+      "category": "Allocate: Portfolio",
+      "amount": -7234.47,
+      "description": "Allocated $7,234.47 (cash)"
+    },
+    {
+      "date": "2025-09-25T18:32:48",
+      "category": "Interest",
+      "amount": 10.0,
+      "description": "Interest credited to cash"
+    },
+    {
+      "date": "2025-09-26T11:40:18",
+      "category": "Missed Interest",
+      "amount": 10270.0,
+      "description": "Interest for 1027 minutes offline"
+    },
+    {
+      "date": "2025-09-01T00:00:00",
+      "category": "Online Store - Product Sales",
+      "amount": 1520.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-01T00:00:00",
+      "category": "Online Store - Shipping Fees",
+      "amount": 230.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-01T00:00:00",
+      "category": "Online Store - Refund",
+      "amount": -120.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-02T00:00:00",
+      "category": "Music Festival - Ticket Sales",
+      "amount": 3400.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-02T00:00:00",
+      "category": "Music Festival - Food Stall Income",
+      "amount": 980.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-02T00:00:00",
+      "category": "Music Festival - Stage Rental",
+      "amount": -600.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-03T00:00:00",
+      "category": "Food Truck - Lunch Sales",
+      "amount": 850.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-03T00:00:00",
+      "category": "Food Truck - Fuel Expense",
+      "amount": -90.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-03T00:00:00",
+      "category": "Corporate Workshop - Registration Fees",
+      "amount": 2100.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-03T00:00:00",
+      "category": "Corporate Workshop - Venue Hire",
+      "amount": -750.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-04T00:00:00",
+      "category": "Online Store - Product Sales",
+      "amount": 1780.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-04T00:00:00",
+      "category": "Online Store - Product Sales",
+      "amount": 1660.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-04T00:00:00",
+      "category": "Online Store - Marketing Expense",
+      "amount": -200.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-04T00:00:00",
+      "category": "Music Festival - Ticket Sales",
+      "amount": 3600.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-04T00:00:00",
+      "category": "Music Festival - Merchandise",
+      "amount": 820.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-05T00:00:00",
+      "category": "Food Truck - Dinner Sales",
+      "amount": 920.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-05T00:00:00",
+      "category": "Food Truck - Ingredient Purchase",
+      "amount": -110.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-05T00:00:00",
+      "category": "Corporate Workshop - Registration Fees",
+      "amount": 1900.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-05T00:00:00",
+      "category": "Corporate Workshop - Printing",
+      "amount": -65.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-06T00:00:00",
+      "category": "Online Store - Product Sales",
+      "amount": 1850.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-06T00:00:00",
+      "category": "Online Store - Product Sales",
+      "amount": 1720.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-06T00:00:00",
+      "category": "Online Store - Refund",
+      "amount": -140.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-06T00:00:00",
+      "category": "Music Festival - Ticket Sales",
+      "amount": 3550.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-06T00:00:00",
+      "category": "Music Festival - Vendor Booth Income",
+      "amount": 600.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-06T00:00:00",
+      "category": "Music Festival - Lighting Expense",
+      "amount": -300.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-07T00:00:00",
+      "category": "Food Truck - Lunch Sales",
+      "amount": 870.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-07T00:00:00",
+      "category": "Food Truck - Dinner Sales",
+      "amount": 960.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-07T00:00:00",
+      "category": "Food Truck - Maintenance",
+      "amount": -80.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-07T00:00:00",
+      "category": "Corporate Workshop - Registration Fees",
+      "amount": 2200.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-07T00:00:00",
+      "category": "Corporate Workshop - Catering",
+      "amount": -250.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-08T00:00:00",
+      "category": "Online Store - Product Sales",
+      "amount": 1620.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-08T00:00:00",
+      "category": "Online Store - Shipping Fees",
+      "amount": 210.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-08T00:00:00",
+      "category": "Online Store - Refund",
+      "amount": -100.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-08T00:00:00",
+      "category": "Music Festival - Ticket Sales",
+      "amount": 3720.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-08T00:00:00",
+      "category": "Music Festival - Food Stall Income",
+      "amount": 1040.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-08T00:00:00",
+      "category": "Music Festival - Security",
+      "amount": -400.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-09T00:00:00",
+      "category": "Food Truck - Lunch Sales",
+      "amount": 910.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-09T00:00:00",
+      "category": "Food Truck - Fuel Expense",
+      "amount": -70.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-09T00:00:00",
+      "category": "Corporate Workshop - Registration Fees",
+      "amount": 2300.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-09T00:00:00",
+      "category": "Corporate Workshop - Venue Hire",
+      "amount": -800.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-10T00:00:00",
+      "category": "Online Store - Product Sales",
+      "amount": 1750.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-10T00:00:00",
+      "category": "Online Store - Marketing Expense",
+      "amount": -180.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-10T00:00:00",
+      "category": "Music Festival - Ticket Sales",
+      "amount": 3480.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-10T00:00:00",
+      "category": "Music Festival - Merchandise",
+      "amount": 900.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-10T00:00:00",
+      "category": "Music Festival - Stage Rental",
+      "amount": -650.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-10T00:00:00",
+      "category": "Food Truck - Dinner Sales",
+      "amount": 980.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-10T00:00:00",
+      "category": "Food Truck - Ingredient Purchase",
+      "amount": -95.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-10T00:00:00",
+      "category": "Corporate Workshop - Registration Fees",
+      "amount": 1950.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-10T00:00:00",
+      "category": "Corporate Workshop - Printing",
+      "amount": -70.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Online Store - Product Sales",
+      "amount": 1680.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Online Store - Product Sales",
+      "amount": 1580.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Online Store - Refund",
+      "amount": -120.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Music Festival - Ticket Sales",
+      "amount": 3600.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Music Festival - Vendor Booth Income",
+      "amount": 640.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Music Festival - Lighting Expense",
+      "amount": -320.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Food Truck - Lunch Sales",
+      "amount": 940.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Food Truck - Dinner Sales",
+      "amount": 930.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Food Truck - Maintenance",
+      "amount": -85.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Corporate Workshop - Registration Fees",
+      "amount": 2050.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-11T00:00:00",
+      "category": "Corporate Workshop - Catering",
+      "amount": -260.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-26T11:41:31",
+      "category": "Interest",
+      "amount": 10.0,
+      "description": "Interest credited to cash"
+    },
+    {
+      "date": "2025-09-26T11:42:31",
+      "category": "Interest",
+      "amount": 10.0,
+      "description": "Interest credited to cash"
+    },
+    {
+      "date": "2025-09-26T11:43:31",
+      "category": "Interest",
+      "amount": 10.0,
+      "description": "Interest credited to cash"
+    },
+    {
+      "date": "2025-09-26T11:43:53",
+      "category": "Allocate: Portfolio",
+      "amount": -21984.6,
+      "description": "Allocated $21,984.60 (cash)"
+    },
+    {
+      "date": "2025-09-26T11:44:31",
+      "category": "Interest",
+      "amount": 10.0,
+      "description": "Interest credited to cash"
+    },
+    {
+      "date": "2025-01-05T00:00:00",
+      "category": "Food",
+      "amount": -45.23,
+      "description": "Acme Grocery"
+    },
+    {
+      "date": "2025-01-10T00:00:00",
+      "category": "Rent",
+      "amount": -1200.0,
+      "description": "Monthly Rent"
+    },
+    {
+      "date": "2025-01-15T00:00:00",
+      "category": "Income",
+      "amount": 3500.0,
+      "description": "Salary Payroll"
+    },
+    {
+      "date": "2025-01-20T00:00:00",
+      "category": "Travel",
+      "amount": -12.5,
+      "description": "Uber Ride"
+    },
+    {
+      "date": "2025-02-02T00:00:00",
+      "category": "Food",
+      "amount": -34.75,
+      "description": "Restaurant Cafe"
+    },
+    {
+      "date": "2025-02-10T00:00:00",
+      "category": "Others",
+      "amount": -150.0,
+      "description": "Bought AAPL"
+    },
+    {
+      "date": "2025-02-28T00:00:00",
+      "category": "Income",
+      "amount": 3500.0,
+      "description": "Salary Payroll"
+    },
+    {
+      "date": "2025-03-03T00:00:00",
+      "category": "Travel",
+      "amount": -320.0,
+      "description": "Flight to City"
+    },
+    {
+      "date": "2025-09-26T11:45:31",
+      "category": "Interest",
+      "amount": 10.0,
+      "description": "Interest credited to cash"
+    },
+    {
+      "date": "2025-09-26T11:46:31",
+      "category": "Interest",
+      "amount": 10.0,
+      "description": "Interest credited to cash"
+    },
+    {
+      "date": "2025-09-26T11:47:31",
+      "category": "Interest",
+      "amount": 10.0,
+      "description": "Interest credited to cash"
+    },
+    {
+      "date": "2025-09-26T11:48:31",
+      "category": "Interest",
+      "amount": 10.0,
+      "description": "Interest credited to cash"
+    },
+    {
+      "date": "2025-09-26T00:00:00",
+      "category": "Investment: TSLA",
+      "amount": -42339.0,
+      "description": "Purchased 100.0 shares at $423.39"
+    },
+    {
+      "date": "2025-09-26T11:49:31",
+      "category": "Interest",
+      "amount": 10.0,
+      "description": "Interest credited to cash"
+    },
+    {
+      "date": "2025-09-26T11:50:31",
+      "category": "Interest",
+      "amount": 10.0,
+      "description": "Interest credited to cash"
+    },
+    {
+      "date": "2025-09-26T11:51:31",
+      "category": "Interest",
+      "amount": 10.0,
+      "description": "Interest credited to cash"
+    },
+    {
+      "date": "2025-09-26T11:52:31",
+      "category": "Interest",
+      "amount": 10.0,
+      "description": "Interest credited to cash"
+    },
+    {
+      "date": "2025-09-26T11:53:32",
+      "category": "Interest",
+      "amount": 10.0,
+      "description": "Interest credited to cash"
+    },
+    {
+      "date": "2025-09-26T11:54:32",
+      "category": "Interest",
+      "amount": 10.0,
+      "description": "Interest credited to cash"
+    },
+    {
+      "date": "2025-09-26T11:55:32",
+      "category": "Interest",
+      "amount": 10.0,
+      "description": "Interest credited to cash"
+    },
+    {
+      "date": "2025-09-26T11:56:32",
+      "category": "Interest",
+      "amount": 10.0,
+      "description": "Interest credited to cash"
+    },
+    {
+      "date": "2025-09-26T11:57:32",
+      "category": "Interest",
+      "amount": 10.0,
+      "description": "Interest credited to cash"
+    },
+    {
+      "date": "2025-09-26T11:58:32",
+      "category": "Interest",
+      "amount": 10.0,
+      "description": "Interest credited to cash"
+    },
+    {
+      "date": "2024-01-01T00:00:00",
+      "category": "Salary (Adult 1)",
+      "amount": 4200.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-01T00:00:00",
+      "category": "Salary (Adult 2)",
+      "amount": 3800.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-02T00:00:00",
+      "category": "Rent",
+      "amount": -1800.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-03T00:00:00",
+      "category": "Groceries",
+      "amount": -220.5,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-04T00:00:00",
+      "category": "Utilities",
+      "amount": -250.75,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-05T00:00:00",
+      "category": "Childcare",
+      "amount": -450.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-06T00:00:00",
+      "category": "Transportation",
+      "amount": -65.2,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-07T00:00:00",
+      "category": "Entertainment",
+      "amount": -85.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-08T00:00:00",
+      "category": "School Supplies",
+      "amount": -120.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-09T00:00:00",
+      "category": "Groceries",
+      "amount": -180.4,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-10T00:00:00",
+      "category": "Medical",
+      "amount": -310.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-12T00:00:00",
+      "category": "Kids Activity",
+      "amount": -75.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-13T00:00:00",
+      "category": "Groceries",
+      "amount": -190.3,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-14T00:00:00",
+      "category": "Insurance",
+      "amount": -300.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-15T00:00:00",
+      "category": "Savings",
+      "amount": -800.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-16T00:00:00",
+      "category": "Groceries",
+      "amount": -245.7,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-17T00:00:00",
+      "category": "Transportation",
+      "amount": -72.1,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-18T00:00:00",
+      "category": "Utilities",
+      "amount": -220.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-19T00:00:00",
+      "category": "Entertainment",
+      "amount": -95.5,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-20T00:00:00",
+      "category": "Groceries",
+      "amount": -210.6,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-22T00:00:00",
+      "category": "Childcare",
+      "amount": -450.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-23T00:00:00",
+      "category": "Shopping",
+      "amount": -140.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-24T00:00:00",
+      "category": "Groceries",
+      "amount": -185.9,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-26T00:00:00",
+      "category": "Medical",
+      "amount": -275.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-27T00:00:00",
+      "category": "Utilities",
+      "amount": -260.4,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-28T00:00:00",
+      "category": "Groceries",
+      "amount": -230.1,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-30T00:00:00",
+      "category": "Freelance",
+      "amount": 600.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "category": "Salary (Adult 1)",
+      "amount": 4300.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "category": "Salary (Adult 2)",
+      "amount": 3850.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-02T00:00:00",
+      "category": "Rent",
+      "amount": -1800.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-03T00:00:00",
+      "category": "Groceries",
+      "amount": -250.7,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-04T00:00:00",
+      "category": "Utilities",
+      "amount": -295.5,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-05T00:00:00",
+      "category": "Childcare",
+      "amount": -450.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-06T00:00:00",
+      "category": "Transportation",
+      "amount": -68.4,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-07T00:00:00",
+      "category": "Entertainment",
+      "amount": -120.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-08T00:00:00",
+      "category": "Groceries",
+      "amount": -175.2,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-09T00:00:00",
+      "category": "School Fees",
+      "amount": -600.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-10T00:00:00",
+      "category": "Groceries",
+      "amount": -240.3,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-11T00:00:00",
+      "category": "Medical",
+      "amount": -190.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-12T00:00:00",
+      "category": "Kids Activity",
+      "amount": -95.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-13T00:00:00",
+      "category": "Groceries",
+      "amount": -210.4,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-14T00:00:00",
+      "category": "Insurance",
+      "amount": -300.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-15T00:00:00",
+      "category": "Savings",
+      "amount": -850.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-16T00:00:00",
+      "category": "Groceries",
+      "amount": -230.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-17T00:00:00",
+      "category": "Transportation",
+      "amount": -70.2,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-18T00:00:00",
+      "category": "Utilities",
+      "amount": -280.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-19T00:00:00",
+      "category": "Entertainment",
+      "amount": -105.6,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-20T00:00:00",
+      "category": "Groceries",
+      "amount": -225.4,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-21T00:00:00",
+      "category": "Childcare",
+      "amount": -450.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-22T00:00:00",
+      "category": "Shopping",
+      "amount": -185.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-23T00:00:00",
+      "category": "Groceries",
+      "amount": -200.5,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-24T00:00:00",
+      "category": "Medical",
+      "amount": -320.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-25T00:00:00",
+      "category": "Utilities",
+      "amount": -300.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-26T00:00:00",
+      "category": "Groceries",
+      "amount": -215.8,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-28T00:00:00",
+      "category": "Freelance",
+      "amount": 700.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "category": "Salary (Adult 1)",
+      "amount": 4400.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "category": "Salary (Adult 2)",
+      "amount": 3900.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-02T00:00:00",
+      "category": "Rent",
+      "amount": -1850.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-03T00:00:00",
+      "category": "Groceries",
+      "amount": -240.6,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-04T00:00:00",
+      "category": "Utilities",
+      "amount": -310.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-05T00:00:00",
+      "category": "Childcare",
+      "amount": -450.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-06T00:00:00",
+      "category": "Transportation",
+      "amount": -71.5,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-07T00:00:00",
+      "category": "Entertainment",
+      "amount": -110.2,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-08T00:00:00",
+      "category": "Groceries",
+      "amount": -260.8,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-09T00:00:00",
+      "category": "School Supplies",
+      "amount": -95.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-10T00:00:00",
+      "category": "Medical",
+      "amount": -450.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-11T00:00:00",
+      "category": "Groceries",
+      "amount": -200.4,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-12T00:00:00",
+      "category": "Kids Activity",
+      "amount": -80.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-13T00:00:00",
+      "category": "Groceries",
+      "amount": -215.9,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-14T00:00:00",
+      "category": "Insurance",
+      "amount": -300.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-15T00:00:00",
+      "category": "Savings",
+      "amount": -900.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-16T00:00:00",
+      "category": "Groceries",
+      "amount": -275.3,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-17T00:00:00",
+      "category": "Transportation",
+      "amount": -69.8,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-18T00:00:00",
+      "category": "Utilities",
+      "amount": -290.4,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-19T00:00:00",
+      "category": "Entertainment",
+      "amount": -125.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-20T00:00:00",
+      "category": "Groceries",
+      "amount": -190.7,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-21T00:00:00",
+      "category": "Childcare",
+      "amount": -450.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-22T00:00:00",
+      "category": "Shopping",
+      "amount": -160.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-23T00:00:00",
+      "category": "Groceries",
+      "amount": -225.6,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-24T00:00:00",
+      "category": "Medical",
+      "amount": -210.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-25T00:00:00",
+      "category": "Utilities",
+      "amount": -305.2,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-26T00:00:00",
+      "category": "Groceries",
+      "amount": -280.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-28T00:00:00",
+      "category": "Freelance",
+      "amount": 750.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-01T00:00:00",
+      "category": "Salary (Adult 1)",
+      "amount": 4450.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-01T00:00:00",
+      "category": "Salary (Adult 2)",
+      "amount": 3950.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-02T00:00:00",
+      "category": "Rent",
+      "amount": -1850.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-03T00:00:00",
+      "category": "Groceries",
+      "amount": -260.5,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-04T00:00:00",
+      "category": "Utilities",
+      "amount": -320.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-05T00:00:00",
+      "category": "Childcare",
+      "amount": -450.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-06T00:00:00",
+      "category": "Transportation",
+      "amount": -75.1,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-07T00:00:00",
+      "category": "Entertainment",
+      "amount": -95.4,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-08T00:00:00",
+      "category": "Groceries",
+      "amount": -230.2,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-09T00:00:00",
+      "category": "School Fees",
+      "amount": -620.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-10T00:00:00",
+      "category": "Medical",
+      "amount": -380.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-11T00:00:00",
+      "category": "Groceries",
+      "amount": -245.6,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-12T00:00:00",
+      "category": "Kids Activity",
+      "amount": -85.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-13T00:00:00",
+      "category": "Groceries",
+      "amount": -270.4,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-14T00:00:00",
+      "category": "Insurance",
+      "amount": -300.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-15T00:00:00",
+      "category": "Savings",
+      "amount": -950.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-16T00:00:00",
+      "category": "Groceries",
+      "amount": -200.3,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-17T00:00:00",
+      "category": "Transportation",
+      "amount": -72.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-18T00:00:00",
+      "category": "Utilities",
+      "amount": -335.5,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-19T00:00:00",
+      "category": "Entertainment",
+      "amount": -140.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-20T00:00:00",
+      "category": "Groceries",
+      "amount": -260.9,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-21T00:00:00",
+      "category": "Childcare",
+      "amount": -450.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-22T00:00:00",
+      "category": "Shopping",
+      "amount": -175.6,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-23T00:00:00",
+      "category": "Groceries",
+      "amount": -225.2,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-24T00:00:00",
+      "category": "Medical",
+      "amount": -295.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-25T00:00:00",
+      "category": "Utilities",
+      "amount": -310.4,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-26T00:00:00",
+      "category": "Groceries",
+      "amount": -280.5,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-28T00:00:00",
+      "category": "Freelance",
+      "amount": 800.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-01T00:00:00",
+      "category": "Salary",
+      "amount": 5200.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-03T00:00:00",
+      "category": "Rent",
+      "amount": -1350.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-04T00:00:00",
+      "category": "Food",
+      "amount": -45.2,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-05T00:00:00",
+      "category": "Transportation",
+      "amount": -18.5,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-06T00:00:00",
+      "category": "Entertainment",
+      "amount": -60.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-08T00:00:00",
+      "category": "Utilities",
+      "amount": -110.75,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-09T00:00:00",
+      "category": "Food",
+      "amount": -32.4,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-10T00:00:00",
+      "category": "Shopping",
+      "amount": -85.3,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-11T00:00:00",
+      "category": "Healthcare",
+      "amount": -220.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-13T00:00:00",
+      "category": "Food",
+      "amount": -24.9,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-15T00:00:00",
+      "category": "Savings",
+      "amount": -500.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-16T00:00:00",
+      "category": "Food",
+      "amount": -42.1,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-18T00:00:00",
+      "category": "Transportation",
+      "amount": -25.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-20T00:00:00",
+      "category": "Entertainment",
+      "amount": -72.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-21T00:00:00",
+      "category": "Food",
+      "amount": -39.5,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-22T00:00:00",
+      "category": "Insurance",
+      "amount": -150.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-23T00:00:00",
+      "category": "Food",
+      "amount": -60.8,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-25T00:00:00",
+      "category": "Shopping",
+      "amount": -95.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-27T00:00:00",
+      "category": "Utilities",
+      "amount": -115.6,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-29T00:00:00",
+      "category": "Food",
+      "amount": -28.7,
+      "description": NaN
+    },
+    {
+      "date": "2024-01-30T00:00:00",
+      "category": "Freelance",
+      "amount": 800.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-01T00:00:00",
+      "category": "Salary",
+      "amount": 5100.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-02T00:00:00",
+      "category": "Rent",
+      "amount": -1350.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-03T00:00:00",
+      "category": "Food",
+      "amount": -55.1,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-04T00:00:00",
+      "category": "Transportation",
+      "amount": -19.8,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-05T00:00:00",
+      "category": "Entertainment",
+      "amount": -48.5,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-07T00:00:00",
+      "category": "Food",
+      "amount": -33.25,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-08T00:00:00",
+      "category": "Healthcare",
+      "amount": -180.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-10T00:00:00",
+      "category": "Utilities",
+      "amount": -120.4,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-11T00:00:00",
+      "category": "Food",
+      "amount": -29.9,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-13T00:00:00",
+      "category": "Shopping",
+      "amount": -110.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-14T00:00:00",
+      "category": "Food",
+      "amount": -42.7,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-15T00:00:00",
+      "category": "Savings",
+      "amount": -600.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-16T00:00:00",
+      "category": "Transportation",
+      "amount": -21.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-18T00:00:00",
+      "category": "Food",
+      "amount": -37.4,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-19T00:00:00",
+      "category": "Entertainment",
+      "amount": -65.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-21T00:00:00",
+      "category": "Food",
+      "amount": -46.2,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-22T00:00:00",
+      "category": "Insurance",
+      "amount": -150.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-23T00:00:00",
+      "category": "Shopping",
+      "amount": -130.4,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-25T00:00:00",
+      "category": "Food",
+      "amount": -25.3,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-26T00:00:00",
+      "category": "Car Repair",
+      "amount": -450.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-02-28T00:00:00",
+      "category": "Utilities",
+      "amount": -118.9,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-01T00:00:00",
+      "category": "Salary",
+      "amount": 5300.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-02T00:00:00",
+      "category": "Rent",
+      "amount": -1400.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-03T00:00:00",
+      "category": "Food",
+      "amount": -50.6,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-04T00:00:00",
+      "category": "Transportation",
+      "amount": -17.9,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-05T00:00:00",
+      "category": "Entertainment",
+      "amount": -55.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-07T00:00:00",
+      "category": "Food",
+      "amount": -27.8,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-08T00:00:00",
+      "category": "Shopping",
+      "amount": -140.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-09T00:00:00",
+      "category": "Utilities",
+      "amount": -119.2,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-10T00:00:00",
+      "category": "Food",
+      "amount": -36.4,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-12T00:00:00",
+      "category": "Healthcare",
+      "amount": -320.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-14T00:00:00",
+      "category": "Food",
+      "amount": -40.25,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-15T00:00:00",
+      "category": "Savings",
+      "amount": -700.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-16T00:00:00",
+      "category": "Transportation",
+      "amount": -23.5,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-17T00:00:00",
+      "category": "Food",
+      "amount": -44.6,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-19T00:00:00",
+      "category": "Entertainment",
+      "amount": -68.4,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-20T00:00:00",
+      "category": "Food",
+      "amount": -26.9,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-22T00:00:00",
+      "category": "Insurance",
+      "amount": -150.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-23T00:00:00",
+      "category": "Shopping",
+      "amount": -105.7,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-24T00:00:00",
+      "category": "Food",
+      "amount": -52.1,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-26T00:00:00",
+      "category": "Utilities",
+      "amount": -121.5,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-28T00:00:00",
+      "category": "Food",
+      "amount": -29.3,
+      "description": NaN
+    },
+    {
+      "date": "2024-03-30T00:00:00",
+      "category": "Freelance",
+      "amount": 950.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-01T00:00:00",
+      "category": "Salary",
+      "amount": 5400.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-02T00:00:00",
+      "category": "Rent",
+      "amount": -1420.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-03T00:00:00",
+      "category": "Food",
+      "amount": -47.6,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-04T00:00:00",
+      "category": "Transportation",
+      "amount": -20.7,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-05T00:00:00",
+      "category": "Entertainment",
+      "amount": -62.5,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-06T00:00:00",
+      "category": "Food",
+      "amount": -32.8,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-07T00:00:00",
+      "category": "Shopping",
+      "amount": -115.2,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-08T00:00:00",
+      "category": "Utilities",
+      "amount": -122.3,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-09T00:00:00",
+      "category": "Food",
+      "amount": -38.1,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-10T00:00:00",
+      "category": "Healthcare",
+      "amount": -200.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-12T00:00:00",
+      "category": "Food",
+      "amount": -41.7,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-13T00:00:00",
+      "category": "Transportation",
+      "amount": -24.6,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-14T00:00:00",
+      "category": "Food",
+      "amount": -36.2,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-15T00:00:00",
+      "category": "Savings",
+      "amount": -650.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-16T00:00:00",
+      "category": "Entertainment",
+      "amount": -75.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-17T00:00:00",
+      "category": "Food",
+      "amount": -28.4,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-18T00:00:00",
+      "category": "Insurance",
+      "amount": -150.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-19T00:00:00",
+      "category": "Shopping",
+      "amount": -125.5,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-21T00:00:00",
+      "category": "Food",
+      "amount": -45.3,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-23T00:00:00",
+      "category": "Utilities",
+      "amount": -118.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-25T00:00:00",
+      "category": "Food",
+      "amount": -33.7,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-26T00:00:00",
+      "category": "Car Repair",
+      "amount": -380.0,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-28T00:00:00",
+      "category": "Food",
+      "amount": -27.6,
+      "description": NaN
+    },
+    {
+      "date": "2024-04-29T00:00:00",
+      "category": "Freelance",
+      "amount": 700.0,
+      "description": NaN
+    },
+    {
+      "date": "2025-09-26T11:59:32",
+      "category": "Interest",
+      "amount": 10.0,
+      "description": "Interest credited to cash"
+    },
+    {
+      "date": "2025-09-26T12:29:21",
+      "category": "Interest",
+      "amount": 10.0,
+      "description": "Interest credited to cash"
+    }
+  ],
+  "csv_loaded": false,
+  "last_interest_time": "2025-09-26T12:29:21.178306"
+}

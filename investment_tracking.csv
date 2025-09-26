@@ -1,0 +1,59 @@
+date,category,amount
+2024-01-01,Salary,5500.00
+2024-01-02,401k Contribution,-400.00
+2024-01-03,Stock Purchase,-1500.00
+2024-01-05,Crypto Purchase,-600.00
+2024-01-10,Dividend,85.00
+2024-01-15,Bond Interest,45.00
+2024-01-18,Stock Purchase,-1200.00
+2024-01-22,401k Contribution,-400.00
+2024-01-28,Crypto Purchase,-500.00
+2024-01-30,Dividend,60.00
+2024-02-01,Salary,5600.00
+2024-02-02,401k Contribution,-400.00
+2024-02-03,Stock Purchase,-1400.00
+2024-02-07,Dividend,75.00
+2024-02-12,Bond Interest,50.00
+2024-02-15,Crypto Purchase,-700.00
+2024-02-20,401k Contribution,-400.00
+2024-02-24,Stock Purchase,-1800.00
+2024-02-27,Dividend,95.00
+2024-03-01,Salary,5550.00
+2024-03-02,401k Contribution,-400.00
+2024-03-04,Stock Purchase,-2000.00
+2024-03-08,Crypto Purchase,-450.00
+2024-03-10,Dividend,70.00
+2024-03-15,Bond Interest,55.00
+2024-03-19,401k Contribution,-400.00
+2024-03-21,Stock Purchase,-1600.00
+2024-03-25,Dividend,100.00
+2024-03-28,Crypto Purchase,-800.00
+2024-04-01,Salary,5700.00
+2024-04-02,401k Contribution,-450.00
+2024-04-05,Stock Purchase,-2100.00
+2024-04-07,Dividend,85.00
+2024-04-11,Bond Interest,50.00
+2024-04-15,Crypto Purchase,-500.00
+2024-04-18,401k Contribution,-450.00
+2024-04-21,Stock Purchase,-1900.00
+2024-04-26,Dividend,110.00
+2024-05-01,Salary,5600.00
+2024-05-02,401k Contribution,-450.00
+2024-05-05,Stock Purchase,-2200.00
+2024-05-07,Crypto Purchase,-650.00
+2024-05-10,Dividend,95.00
+2024-05-14,Bond Interest,60.00
+2024-05-18,401k Contribution,-450.00
+2024-05-21,Stock Purchase,-1750.00
+2024-05-23,Dividend,105.00
+2024-05-27,Crypto Purchase,-700.00
+2024-06-01,Salary,5750.00
+2024-06-02,401k Contribution,-500.00
+2024-06-04,Stock Purchase,-2300.00
+2024-06-06,Dividend,120.00
+2024-06-10,Bond Interest,65.00
+2024-06-14,Crypto Purchase,-600.00
+2024-06-18,401k Contribution,-500.00
+2024-06-21,Stock Purchase,-2000.00
+2024-06-24,Dividend,115.00
+2024-06-27,Crypto Purchase,-750.00

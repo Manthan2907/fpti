@@ -1,0 +1,9 @@
+date,description,amount,category
+2025-01-05,Acme Grocery,-45.23,Food
+2025-01-10,Monthly Rent,-1200.0,Rent
+2025-01-15,Salary Payroll,3500.0,Income
+2025-01-20,Uber Ride,-12.5,Travel
+2025-02-02,Restaurant Cafe,-34.75,Food
+2025-02-10,Bought AAPL,-150.0,Others
+2025-02-28,Salary Payroll,3500.0,Income
+2025-03-03,Flight to City,-320.0,Travel
